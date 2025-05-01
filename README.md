@@ -1,7 +1,8 @@
 # Ecuaciones-Movimiento-RG
 # Relatividad General: Trayectorias y Ecuaciones de Movimiento
 
-Este repositorio contiene un documento personal donde exploro las ecuaciones de movimiento en el marco de la Relatividad General. El objetivo principal es comprender el comportamiento de partículas (con y sin masa) bajo la métrica de Schwarzschild y el uso de geodésicas como herramienta fundamental.
+Este repositorio contiene un documento personal donde desarrollo las ecuaciones de movimiento de Relatividad General como proyecto personal para comprender
+este temario del curso.
 
 📄 **Documento principal (PDF)**  
 👉 [Ver el documento PDF](./RG_trayectorias_y_ecuaciones_de_movimient.pdf)
